@@ -1,5 +1,4 @@
-import "./styles.css";
-import "./siakamenu.css";
+import "./index.css";
 import closeIcon from "./assets/close.inline.svg";
 
 function createDropdownMenu(menu, openBtn) {
