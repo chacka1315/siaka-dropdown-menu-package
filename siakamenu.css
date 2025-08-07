@@ -1,0 +1,27 @@
+.siaka-dropdown-menu-visible {
+  visibility: visible;
+  transition: transform 0.3s ease;
+  transform: translateX(0);
+}
+
+.siaka-dropdown-menu-hidden {
+  visibility: hidden;
+  transform: translateX(-100px);
+  pointer-events: none;
+}
+
+/* close button */
+.siaka-dropdown-closeBtn {
+  position: absolute;
+  top: 20px;
+  right: -30px;
+}
+.siaka-dropdown-closeBtn svg {
+  fill: black;
+  width: 2rem;
+  height: 2rem;
+}
+
+.siaka-dropdown-openBtn-hidden {
+  display: none;
+}
