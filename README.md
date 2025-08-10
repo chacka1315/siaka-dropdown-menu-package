@@ -6,15 +6,13 @@ A lightweight JavaScript utility to easily create smooth, customizable dropdown 
 
 ## ✨ Features
 
-- Smooth slide-in/out animations
-
 - Simple, customizable CSS classes
 - Works with vanilla JS (no framework required)
-- Some more are comming...
 - Built-in close button support (but Make sure the menu block is
   positioned on css(position : absolute, fixed, sticky, relative...)
   because the close button is appenChild on the menu block so the
   button will be positioned if the menu block has some position)
+- Some more are comming...
 
 ---
 
