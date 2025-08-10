@@ -8,7 +8,9 @@ function createDropdownMenu(menu, openBtn) {
   //create an close button
   const closeBtn = document.createElement("div");
   closeBtn.innerHTML = closeIcon;
-  closeBtn.classList.add("siaka-dropdown-closeBtn");
+  closeBtn.classList.add("default-style-dropdown-closeBtn");
+  closeBtn.id = "new-style-dropdown-closeBtn";
+
   menu.appendChild(closeBtn);
 
   let isOpen = false;

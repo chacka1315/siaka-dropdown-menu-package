@@ -1,0 +1,25 @@
+{
+  "name": "siaka-dropdown-menu",
+  "version": "1.0.0",
+  "description": "A package to create dropdown menu",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.css",
+    "./assets"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chacka1315/siaka-dropdown-menu-package.git"
+  },
+  "keywords": [
+    "dropdown-menu"
+  ],
+  "author": "siaka.d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chacka1315/siaka-dropdown-menu-package/issues"
+  },
+  "homepage": "https://github.com/chacka1315/siaka-dropdown-menu-package#readme"
+}
