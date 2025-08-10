@@ -29,10 +29,10 @@ npm install siaka-dropdown-menu
 import createDropdownMenu from "siaka-dropdown-menu";
 import "siaka-dropdown-menu/index.css";
 
-const MyMenu = document.getElementById("dropdown-menu");
-const MytoggleButton = document.getElementById("menu-toggle");
+const myMenu = document.getElementById("dropdown-menu");
+const myToggleButton = document.getElementById("menu-toggle");
 
-createDropdownMenu(MyMenu, MytoggleButton);
+createDropdownMenu(myMenu, myToggleButton);
 ```
 
 ## Default button close
