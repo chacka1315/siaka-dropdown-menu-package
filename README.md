@@ -35,7 +35,7 @@ const myToggleButton = document.getElementById("menu-toggle");
 createDropdownMenu(myMenu, myToggleButton);
 ```
 
-## Default button close
+## Default button close style
 
 ```css
 .default-style-dropdown-closeBtn {
@@ -50,9 +50,7 @@ createDropdownMenu(myMenu, myToggleButton);
 }
 ```
 
-## Add your own styles on the close button by that selector
-
-## You can re-style the button and the svg inside, as you want
+## Add your own styles on the close button by that selector bellow ⬇️, You can re-style the button and the svg inside, as you want
 
 ```css
 #new-style-dropdown-closeBtn {
